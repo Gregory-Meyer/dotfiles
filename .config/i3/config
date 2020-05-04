@@ -204,3 +204,7 @@ for_window [window_role="Preferences"] floating enable
 for_window [window_role="About"] floating enable
 for_window [window_type="dialog"] floating enable
 for_window [window_type="menu"] floating enable
+
+# Don’t let notifications and non-interactive pop-up windows steal focus
+no_focus [class="plasmashell" window_type="notification"]
+no_focus [class="plasmashell" window_type="on_screen_display"]
