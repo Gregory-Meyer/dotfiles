@@ -1,0 +1,69 @@
+[PlasmaRunnerManager]
+LaunchCounts=1 services_kcm_lookandfeel.desktop,2 services_mupdf.desktop,18 services_kitty.desktop,2 services_slack.desktop,1 services_opengl.desktop,13 services_kcm_kscreen.desktop,4 services_thunar.desktop,1 services_spotify.desktop,1 services_zzz-gimp.desktop,3 shell_matlab,1 shell_libreoffice,1 services_kcm_baloofile.desktop,1 shell_firefox,1 services_kcm_plasmasearch.desktop,1 services_kcm_fileindexermonitor.desktop,5 services_subl.desktop,11 services_firefox.desktop,1 baloosearch_/home/gregjm/repos/openrave/3rdparty/qhull/Changes.txt
+pluginWhiteList=desktopsessions,services,places,PowerDevil,calculator,unitconverter,shell,bookmarks,recentdocuments,locations,baloosearch
+
+[PlasmaViews][Panel 2][Defaults]
+thickness=76
+
+[PlasmaViews][Panel 2][Horizontal3840]
+thickness=76
+
+[PlasmaViews][Panel 20][Defaults]
+thickness=60
+
+[PlasmaViews][Panel 20][Horizontal3840]
+thickness=60
+
+[PlasmaViews][Panel 3]
+alignment=1
+panelVisibility=0
+
+[PlasmaViews][Panel 3][Defaults]
+thickness=56
+
+[PlasmaViews][Panel 3][Horizontal1920]
+thickness=56
+
+[PlasmaViews][Panel 3][Horizontal3840]
+thickness=56
+
+[PlasmaViews][Panel 36][Defaults]
+thickness=60
+
+[PlasmaViews][Panel 36][Horizontal3840]
+thickness=60
+
+[PlasmaViews][Panel 38][Defaults]
+thickness=80
+
+[PlasmaViews][Panel 38][Horizontal1920]
+thickness=80
+
+[PlasmaViews][Panel 38][Horizontal3840]
+thickness=80
+
+[PlasmaViews][Panel 46][Defaults]
+thickness=80
+
+[PlasmaViews][Panel 46][Vertical2160]
+thickness=80
+
+[PlasmaViews][Panel 54][Defaults]
+thickness=60
+
+[PlasmaViews][Panel 54][Horizontal3840]
+thickness=60
+
+[PlasmaViews][Panel 57][Defaults]
+thickness=60
+
+[PlasmaViews][Panel 57][Horizontal3840]
+thickness=60
+
+[ScreenConnectors]
+0=eDP-1-1
+1=:0.0
+2=HDMI-0
+
+[Updates]
+performed=/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/move_desktop_layout_config.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/obsolete_kickoffrc.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/unlock_widgets.js

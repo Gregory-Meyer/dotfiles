@@ -1,0 +1,17 @@
+[Applications][discord]
+Seen=true
+
+[Applications][firefox]
+Seen=true
+
+[Applications][fr.handbrake.ghb]
+Seen=true
+
+[Applications][slack]
+Seen=true
+
+[DoNotDisturb]
+Until=2020,4,24,6,0,0
+
+[Notifications]
+PopupTimeout=2000
