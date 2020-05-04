@@ -1,0 +1,41 @@
+{
+    "common_flags": [
+        "-isystembuild",
+        "-isystem../build",
+        "-isystem../../build",
+        "-isystem../../../build",
+        "-isystem../../../../build",
+        "-isystem../../../../../build",
+        "-isystem../../../../../../build",
+        "-Iinclude",
+        "-I../include",
+        "-I../../include",
+        "-I../../../include",
+        "-I../../../../include",
+        "-I../../../../../include",
+        "-I../../../../../../include",
+    ],
+    "lang_flags": {
+        "C":              ["-std=c11"],
+        "CPP":            ["-std=c++17"],
+        "OBJECTIVE_C":    ["-std=c11"],
+        "OBJECTIVE_CPP":  ["-std=c++17"],
+        "CUDA":           ["-std=c++17", "-x", "cuda"]
+    },
+
+    "valid_lang_syntaxes": {
+        "C":              ["C", "C Improved", "C99"],
+        "CPP":            ["C++", "C++11"],
+        "OBJECTIVE_C":    ["Objective-C"],
+        "OBJECTIVE_CPP":  ["Objective-C++"],
+        "CUDA":           ["CUDA C++"]
+    },
+
+    "target_compilers": {
+        "C":              null,
+        "CPP":            null,
+        "OBJECTIVE_C":    null,
+        "OBJECTIVE_CPP":  null,
+        "CUDA":           null
+    },
+}

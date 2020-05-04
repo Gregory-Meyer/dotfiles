@@ -1,0 +1,7 @@
+{
+    "black_line_length": 79,
+    "black_target_version": ["py38"],
+    "black_on_save": true,
+    "black_use_blackd": true,
+    "black_blackd_autostart": true
+}

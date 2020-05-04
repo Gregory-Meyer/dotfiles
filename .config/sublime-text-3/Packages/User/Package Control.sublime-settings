@@ -1,0 +1,47 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"A File Icon",
+		"AdvancedNewFile",
+		"ayu",
+		"BracketHighlighter",
+		"Clang Format",
+		"CMake",
+		"DoxyDoc",
+		"fish",
+		"GitSavvy",
+		"Gofmt",
+		"GoGuru",
+		"Golang Build",
+		"i3 wm",
+		"Inline Python",
+		"isort",
+		"JsPrettier",
+		"Julia",
+		"LaTeXTools",
+		"LSP",
+		"MagicPython",
+		"Markdown Extended",
+		"MarkdownPreview",
+		"Matlab Completions",
+		"MatlabFilenameAutoComplete",
+		"NASM x86 Assembly",
+		"Package Control",
+		"Rust Enhanced",
+		"RustFmt",
+		"SideBarEnhancements",
+		"sublack",
+		"SublimeLinter",
+		"SublimeLinter-addon-black-for-flake",
+		"SublimeLinter-contrib-mlint",
+		"SublimeLinter-eslint",
+		"SublimeLinter-flake8",
+		"SublimeLinter-golangcilint",
+		"TOML",
+		"TrailingSpaces"
+	]
+}

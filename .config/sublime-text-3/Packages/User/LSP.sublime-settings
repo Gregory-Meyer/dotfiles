@@ -1,0 +1,21 @@
+{
+	"clients":
+	{
+		"clangd":
+		{
+			"enabled": true
+		},
+		"gopls":
+		{
+			"enabled": true
+		},
+		"pyls":
+		{
+			"enabled": true
+		},
+		"rls":
+		{
+			"enabled": false
+		}
+	}
+}

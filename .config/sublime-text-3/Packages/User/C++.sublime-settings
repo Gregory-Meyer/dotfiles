@@ -1,0 +1,9 @@
+{
+	"extensions":
+	[
+		"h",
+		"cuh",
+		"cu"
+	],
+	"tab_size": 2
+}
