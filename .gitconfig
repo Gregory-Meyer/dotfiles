@@ -1,6 +1,6 @@
 [user]
 	name = Gregory Meyer
 	email = me@gregjm.dev
-	signingkey = 2256ABA9961C2EE533BFC7935855A169BAC2A678
+	signingKey = 2256ABA9961C2EE533BFC7935855A169BAC2A678
 [commit]
-	gpgsign = true
+	gpgSign = true
