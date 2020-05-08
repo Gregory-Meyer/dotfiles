@@ -62,8 +62,7 @@ thickness=60
 
 [ScreenConnectors]
 0=eDP-1-1
-1=:0.0
-2=HDMI-0
+1=HDMI-0
 
 [Updates]
 performed=/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/move_desktop_layout_config.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/obsolete_kickoffrc.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/unlock_widgets.js

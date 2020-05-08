@@ -7,7 +7,7 @@
 	"detect_indentation": true,
 	"drag_text": false,
 	"ensure_newline_at_eof_on_save": true,
-	"font_size": 12,
+	"font_size": 14,
 	"highlight_line": true,
 	"ignored_packages":
 	[
