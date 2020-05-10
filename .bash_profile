@@ -20,7 +20,7 @@ export EDITOR=$(which vim)
 export SSH_ASKPASS=/usr/libexec/seahorse/ssh-askpass
 
 if [ -n "$DESKTOP_SESSION" ]; then
-    eval $(gnome-keyring-daemon --start --components=pkcs11,secrets,ssh)
+    eval $(gnome-keyring-daemon --start --components=pkcs11,secrets,ssh,gpg)
     export SSH_AUTH_SOCK
 fi
 
